@@ -1,0 +1,27 @@
+Arguments: 
+  /usr/bin/node /usr/share/yarn/bin/yarn.js add husky
+
+PATH: 
+  /usr/share/rvm/gems/ruby-2.5.1/bin:/usr/share/rvm/gems/ruby-2.5.1@global/bin:/usr/share/rvm/rubies/ruby-2.5.1/bin:/usr/share/rvm/bin:/home/itspacome/bin:/home/itspacome/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+
+Yarn version: 
+  1.9.0-20180627.0947
+
+Node version: 
+  10.6.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: getaddrinfo EAI_AGAIN registry.yarnpkg.com registry.yarnpkg.com:443
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
