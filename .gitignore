@@ -16,9 +16,9 @@
 # Ignore uploaded files in development
 /storage/*
 
-/node_modules/*
 .env
 .byebug_history
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+node_modules
