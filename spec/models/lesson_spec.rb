@@ -1,7 +1,7 @@
 require 'rails_helper'
 
 RSpec.describe Lesson, type: :model do
-it "is creatable" do
+  it "is creatable" do
     lesson = create(:lesson)
     expect(lesson.title).not_to be_blank
     expect(lesson.description).not_to be_blank
